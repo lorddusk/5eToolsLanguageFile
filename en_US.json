@@ -1,0 +1,54 @@
+{
+  "dmOptions": {
+    "adventures": "Adventures",
+    "crCalc": "CR Calculator",
+    "cults": "Cults & Demonic Boons",
+    "dmOptions": "DM Tools",
+    "encGen": "Encounter Generator",
+    "lootGen": "Loot Generator",
+    "objects": "Objects",
+    "traps": "Traps & Hazards"
+  },
+  "home": {
+    "home": "Home"
+  },
+  "locale": "Language",
+  "players": {
+    "backgrounds": "Backgrounds",
+    "classes": "Classes",
+    "feats": "Feats",
+    "invocations": "Invocations",
+    "lifegen": "This Is Your Life",
+    "names": "Names",
+    "players": "Player Options",
+    "races": "Races"
+  },
+  "references": {
+    "bestiary": "Bestiary",
+    "conditions": "Conditions",
+    "deities": "Deities",
+    "items": "Items",
+    "psionics": "Psionics",
+    "references": "References",
+    "rewards": "Other Rewards",
+    "spells": "Spells"
+  },
+  "rules": {
+    "DMG": "Dungeon Master's Guide",
+    "MM": "Monster Manual",
+    "PHB": "Player's Handbook",
+    "quickReference": "Quick Reference",
+    "rules": "Rules",
+    "variantRules": "Variant Rules"
+  },
+  "statgen": {
+    "statgen": "Statgen"
+  },
+  "utils": {
+    "content": "Content Blacklist",
+    "demo": "Renderer Demo",
+    "roll20Help": "Roll20 Script Help",
+    "statBlock": "Stat Block to JSON",
+    "utils": "Utilities"
+  }
+}
