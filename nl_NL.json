@@ -1,0 +1,54 @@
+{
+  "dmOptions": {
+    "adventures": "Avonturen",
+    "crCalc": "CR Calculator",
+    "cults": "Culten & Demonische Zegens",
+    "dmOptions": "DM Opties",
+    "encGen": "Ontmoetings Generator",
+    "lootGen": "Buit Generator",
+    "objects": "Objecten",
+    "traps": "Vallen & Gevaren"
+  },
+  "home": {
+    "home": "Startpagina"
+  },
+  "locale": "Taal",
+  "players": {
+    "backgrounds": "Achtergronden",
+    "classes": "Klassen",
+    "feats": "Talenten",
+    "invocations": "Invocaties",
+    "lifegen": "Dit is je leven",
+    "names": "Namen",
+    "players": "Speler Opties",
+    "races": "Rassen"
+  },
+  "references": {
+    "bestiary": "Monsterboek",
+    "conditions": "Condities",
+    "deities": "Goden",
+    "items": "Voorwerpen",
+    "psionics": "Psionisme",
+    "references": "Referenties",
+    "rewards": "Andere Belongingen",
+    "spells": "Spreuken"
+  },
+  "rules": {
+    "DMG": "Dungeon Master's Guide",
+    "MM": "Monster Manual",
+    "PHB": "Player's Handbook",
+    "quickReference": "Snelle Referentie",
+    "rules": "Regels",
+    "variantRules": "Afwijkende Regels"
+  },
+  "statgen": {
+    "statgen": "Stat Generatie"
+  },
+  "utils": {
+    "content": "Content Zwarte Lijst",
+    "demo": "Renderer Demo",
+    "roll20Help": "Roll20 Script Hulp",
+    "statBlock": "Stat Block naar JSON",
+    "utils": "Utilities"
+  }
+}
