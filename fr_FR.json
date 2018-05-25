@@ -1,0 +1,54 @@
+{
+  "dmOptions": {
+    "adventures": "Aventures",
+    "crCalc": "Calculateur de FP",
+    "cults": "Cultes et Bénédictions Démoniaques",
+    "dmOptions": "Outils du MJ",
+    "encGen": "Générateur de Rencontres",
+    "lootGen": "Générateur de Butin",
+    "objects": "Objets",
+    "traps": "Pièges et Dangers"
+  },
+  "home": {
+    "home": "Accueil"
+  },
+  "locale": "Langue",
+  "players": {
+    "backgrounds": "Historiques",
+    "classes": "Classes",
+    "feats": "Dons",
+    "invocations": "Invocations",
+    "lifegen": "Ceci Est Votre Vie",
+    "names": "Noms",
+    "players": "Options des Joueurs",
+    "races": "Races"
+  },
+  "references": {
+    "bestiary": "Bestiaire",
+    "conditions": "Conditions",
+    "deities": "Divinités",
+    "items": "Équipement",
+    "psionics": "Psioniques",
+    "references": "Réferences",
+    "rewards": "Autres Récompenses",
+    "spells": "Sorts"
+  },
+  "rules": {
+    "DMG": "Guide du Maître",
+    "MM": "Manuel des Monstres",
+    "PHB": "Manuel des Joueurs",
+    "quickReference": "Références Rapides",
+    "rules": "Règles",
+    "variantRules": "Règles Optionnelles"
+  },
+  "statgen": {
+    "statgen": "Statgen"
+  },
+  "utils": {
+    "content": "Liste Noire pour Contenu",
+    "demo": "Démo de Rendu",
+    "roll20Help": "Aide pour le Script Roll20",
+    "statBlock": "Stat Block vers JSON",
+    "utils": "Utilitaires"
+  }
+}
