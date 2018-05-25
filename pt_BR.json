@@ -1,0 +1,54 @@
+{
+  "dmOptions": {
+    "adventures": "Aventuras",
+    "crCalc": "Calculador de ND",
+    "cults": "Cultos e Bênçãos Demoníacas",
+    "dmOptions": "Ferramentas do Mestre",
+    "encGen": "Gerador de Encontro",
+    "lootGen": "Gerador de Tesouro",
+    "objects": "Objetos",
+    "traps": "Armadilhas e Perigos"
+  },
+  "home": {
+    "home": "Página Principal"
+  },
+  "locale": "Idioma",
+  "players": {
+    "backgrounds": "Antecedentes",
+    "classes": "Classes",
+    "feats": "Talentos",
+    "invocations": "Invocações",
+    "lifegen": "Esta É A Sua Vida",
+    "names": "Nomes",
+    "players": "Oções do Jogador",
+    "races": "Raças"
+  },
+  "references": {
+    "bestiary": "Bestiário",
+    "conditions": "Condições",
+    "deities": "Divindades",
+    "items": "Itens",
+    "psionics": "Psionismo",
+    "references": "Referências",
+    "rewards": "Outras Recompensas",
+    "spells": "Magias"
+  },
+  "rules": {
+    "DMG": "Guia do Mestre",
+    "MM": "Manual dos Monstros",
+    "PHB": "Livro do Jogador",
+    "quickReference": "Referência Rápida",
+    "rules": "Regras",
+    "variantRules": "Regras Variantes"
+  },
+  "statgen": {
+    "statgen": "Statgen"
+  },
+  "utils": {
+    "content": "Lista Negra de Conteúdo",
+    "demo": "Demo do Renderizador",
+    "roll20Help": "Ajuda no Script do Roll20",
+    "statBlock": "Stat Block para JSON",
+    "utils": "Utilidades"
+  }
+}
