@@ -1,54 +1,57 @@
 {
-  "dmOptions": {
-    "adventures": "Aventures",
-    "crCalc": "Calculateur de FP",
-    "cults": "Cultes et Bénédictions Démoniaques",
-    "dmOptions": "Outils du MJ",
-    "encGen": "Générateur de Rencontres",
-    "lootGen": "Générateur de Butin",
-    "objects": "Objets",
-    "traps": "Pièges et Dangers"
-  },
-  "home": {
-    "home": "Accueil"
-  },
-  "locale": "Langue",
-  "players": {
-    "backgrounds": "Historiques",
-    "classes": "Classes",
-    "feats": "Dons",
-    "invocations": "Invocations",
-    "lifegen": "Ceci Est Votre Vie",
-    "names": "Noms",
-    "players": "Options des Joueurs",
-    "races": "Races"
-  },
-  "references": {
-    "bestiary": "Bestiaire",
-    "conditions": "Conditions",
-    "deities": "Divinités",
-    "items": "Équipement",
-    "psionics": "Psioniques",
-    "references": "Réferences",
-    "rewards": "Autres Récompenses",
-    "spells": "Sorts"
-  },
-  "rules": {
-    "DMG": "Guide du Maître",
-    "MM": "Manuel des Monstres",
-    "PHB": "Manuel des Joueurs",
-    "quickReference": "Références Rapides",
-    "rules": "Règles",
-    "variantRules": "Règles Optionnelles"
-  },
-  "statgen": {
-    "statgen": "Statgen"
-  },
-  "utils": {
-    "content": "Liste Noire pour Contenu",
-    "demo": "Démo de Rendu",
-    "roll20Help": "Aide pour le Script Roll20",
-    "statBlock": "Stat Block vers JSON",
-    "utils": "Utilitaires"
-  }
+    "dmOptions": {
+        "cults": "Cultes et Bénédictions Démoniaques",
+        "traps": "Pièges et Dangers",
+        "adventures": "Aventures",
+        "objects": "Objets",
+        "dmOptions": "Outils du MJ",
+        "encGen": "Générateur de Rencontres",
+        "crCalc": "Calculateur de FP",
+        "lootGen": "Générateur de Butin"
+    },
+    "home": {
+        "welcome": "Bienvenue sur 5eTools!",
+        "home": "Accueil",
+        "intro": "5eTools est une suite d'outils accessibles par navigateur pour joueurs et MJs de D&D 5e. Vous pouvez télécharger le projet complet depuis",
+        "intro2": "Pour exécuter une copie locale (hors-ligne), téléchargez simplement le projet, extrayez le dans un dossier et ouvrez les fichiers html dans votre navigateur. Vous êtes libres d'héberger votre propre miroir, ou de contribuer au projet via"
+    },
+    "locale": "Langue",
+    "players": {
+        "lifegen": "Ceci Est Votre Vie",
+        "races": "Races",
+        "backgrounds": "Historiques",
+        "invocations": "Invocations",
+        "players": "Options des Joueurs",
+        "classes": "Classes",
+        "names": "Noms",
+        "feats": "Dons"
+    },
+    "references": {
+        "rewards": "Autres Récompenses",
+        "items": "Équipement",
+        "deities": "Divinités",
+        "psionics": "Psioniques",
+        "references": "Réferences",
+        "bestiary": "Bestiaire",
+        "conditions": "Conditions",
+        "spells": "Sorts"
+    },
+    "rules": {
+        "quickReference": "Références Rapides",
+        "variantRules": "Règles Optionnelles",
+        "DMG": "Guide du Maître",
+        "MM": "Manuel des Monstres",
+        "PHB": "Manuel des Joueurs",
+        "rules": "Règles"
+    },
+    "statgen": {
+        "statgen": "Statgen"
+    },
+    "utils": {
+        "content": "Liste Noire pour Contenu",
+        "demo": "Démo de Rendu",
+        "statBlock": "Stat Block vers JSON",
+        "roll20Help": "Aide pour le Script Roll20",
+        "utils": "Utilitaires"
+    }
 }
