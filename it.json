@@ -1,21 +1,21 @@
 {
     "dmOptions": {
-        "cults": "",
-        "traps": "",
-        "adventures": "",
-        "objects": "",
-        "dmOptions": "",
-        "encGen": "",
-        "crCalc": "",
-        "lootGen": ""
+        "cults": "Culti & Benefici Demonico",
+        "traps": "Trappole & Pericoli",
+        "adventures": "Avventure",
+        "objects": "Oggetti",
+        "dmOptions": "Sturnmenti del DM",
+        "encGen": "Generatore di Incontri",
+        "crCalc": "Calcolatrice di CR",
+        "lootGen": "Generatore di Bottino"
     },
     "home": {
-        "welcome": "",
-        "home": "",
+        "home": "Inizio",
+        "welcome": "Benvenuto in 5eTools!",
         "intro": "",
         "intro2": ""
     },
-    "locale": "",
+    "locale": "Linguaggio",
     "misc": {
         "developers": "",
         "magicItems": "",
@@ -48,11 +48,11 @@
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
         "DMG": "",
-        "MM": "",
+        "variantRules": "",
         "PHB": "",
         "coreBooks": "",
+        "MM": "",
         "rules": ""
     },
     "statgen": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
