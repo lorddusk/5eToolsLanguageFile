@@ -58,6 +58,7 @@
     "misc": {
         "developers": "Pauvres Développeurs",
         "magicItems": "Objets Magiques",
+        "currentlyHome": "Accueille actuellement…",
         "monsters": "Monstres"
     },
     "mode": {
