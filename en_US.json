@@ -10,9 +10,22 @@
     "traps": "Traps & Hazards"
   },
   "home": {
-    "home": "Home"
+    "home": "Home",
+    "intro": "5eTools is a suite of browser-based tools for players and DMs of D&D 5e. You can download the entire project from",
+    "intro2": "To run a local (offline) copy, simply download the project, extract it all to a folder, and open the html files in a browser. You're free to host your own mirror, or contribute to the project via",
+    "welcome": "Welcome to 5eTools!"
   },
   "locale": "Language",
+  "misc": {
+    "currentlyHome": "Curently home to...",
+    "developers": "Poor Developers",
+    "magicItems": "Magic Items",
+    "monsters": "Monsters"
+  },
+  "mode": {
+    "day": "Day Mode",
+    "night": "Night Mode"
+  },
   "players": {
     "backgrounds": "Backgrounds",
     "classes": "Classes",
@@ -37,6 +50,7 @@
     "DMG": "Dungeon Master's Guide",
     "MM": "Monster Manual",
     "PHB": "Player's Handbook",
+    "coreBooks": "Core Books",
     "quickReference": "Quick Reference",
     "rules": "Rules",
     "variantRules": "Variant Rules"
