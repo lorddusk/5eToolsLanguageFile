@@ -10,8 +10,8 @@
         "lootGen": "Générateur de Butin"
     },
     "home": {
-        "welcome": "Bienvenue sur 5eTools!",
         "home": "Accueil",
+        "welcome": "Bienvenue sur 5eTools !",
         "intro": "5eTools est une suite d'outils accessibles par navigateur pour joueurs et MJs de D&D 5e. Vous pouvez télécharger le projet complet depuis",
         "intro2": "Pour exécuter une copie locale (hors-ligne), téléchargez simplement le projet, extrayez le dans un dossier et ouvrez les fichiers html dans votre navigateur. Vous êtes libres d'héberger votre propre miroir, ou de contribuer au projet via"
     },
@@ -38,10 +38,10 @@
     },
     "rules": {
         "quickReference": "Références Rapides",
-        "variantRules": "Règles Optionnelles",
         "DMG": "Guide du Maître",
-        "MM": "Manuel des Monstres",
+        "variantRules": "Règles Optionnelles",
         "PHB": "Manuel des Joueurs",
+        "MM": "Manuel des Monstres",
         "rules": "Règles"
     },
     "statgen": {
@@ -50,8 +50,16 @@
     "utils": {
         "content": "Liste Noire pour Contenu",
         "demo": "Démo de Rendu",
-        "statBlock": "Stat Block vers JSON",
         "roll20Help": "Aide pour le Script Roll20",
+        "statBlock": "Stat Block vers JSON",
         "utils": "Utilitaires"
+    },
+    "misc": {
+        "magicItems": "Objets Magiques",
+        "monsters": "Monstres"
+    },
+    "mode": {
+        "day": "Mode Jour",
+        "night": "Mode Nuit"
     }
 }
