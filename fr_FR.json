@@ -41,8 +41,9 @@
         "DMG": "Guide du Maître",
         "variantRules": "Règles Optionnelles",
         "PHB": "Manuel des Joueurs",
-        "MM": "Manuel des Monstres",
-        "rules": "Règles"
+        "coreBooks": "Livres de base",
+        "rules": "Règles",
+        "MM": "Manuel des Monstres"
     },
     "statgen": {
         "statgen": "Statgen"
@@ -50,11 +51,12 @@
     "utils": {
         "content": "Liste Noire pour Contenu",
         "demo": "Démo de Rendu",
-        "roll20Help": "Aide pour le Script Roll20",
         "statBlock": "Stat Block vers JSON",
+        "roll20Help": "Aide pour le Script Roll20",
         "utils": "Utilitaires"
     },
     "misc": {
+        "developers": "Pauvres Développeurs",
         "magicItems": "Objets Magiques",
         "monsters": "Monstres"
     },
