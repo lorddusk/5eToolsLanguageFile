@@ -2,16 +2,16 @@
     "dmOptions": {
         "cults": "",
         "traps": "",
-        "adventures": "",
-        "objects": "",
-        "dmOptions": "",
-        "encGen": "",
+        "adventures": "Aventuras",
+        "objects": "Equipo de Asedio",
+        "dmOptions": "Herramientas del DM",
+        "encGen": "Generador de Encuentros",
         "crCalc": "",
-        "lootGen": ""
+        "lootGen": "Generador de Botín"
     },
     "home": {
-        "welcome": "",
         "home": "",
+        "welcome": "",
         "intro": "",
         "intro2": ""
     },
@@ -48,11 +48,11 @@
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
         "DMG": "",
-        "MM": "",
+        "variantRules": "",
         "PHB": "",
         "coreBooks": "",
+        "MM": "",
         "rules": ""
     },
     "statgen": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
