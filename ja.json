@@ -29,7 +29,7 @@
     "players": {
         "lifegen": "",
         "races": "",
-        "backgrounds": "",
+        "backgrounds": "履歴",
         "invocations": "",
         "players": "",
         "classes": "",
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
     }
 }
