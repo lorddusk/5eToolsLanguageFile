@@ -1,29 +1,29 @@
 {
     "dmOptions": {
-        "cults": "",
-        "traps": "",
-        "adventures": "",
-        "objects": "",
-        "dmOptions": "",
-        "encGen": "",
-        "crCalc": "",
-        "lootGen": ""
+        "cults": "カルト＆デモニックブーンズ",
+        "traps": "トラップ＆ハザード",
+        "adventures": "冒険",
+        "objects": "オブジェクト",
+        "dmOptions": "DMツール",
+        "encGen": "エンカウンタージェネレーター",
+        "crCalc": "CR計算機",
+        "lootGen": "ルートジェネレータ"
     },
     "home": {
-        "welcome": "",
-        "home": "",
-        "intro": "",
-        "intro2": ""
+        "home": "ホームページ",
+        "welcome": "5eTools へようこそ！",
+        "intro": "5eToolsは、D＆D 5eのプレイヤーとDMのためのブラウザベースのツールスイートです。プロジェクト全体をダウンロードすることができます",
+        "intro2": "ローカル（オフライン）コピーを実行するには、プロジェクトをダウンロードし、フォルダにすべて展開して、ブラウザでファイルを開きます。あなた自身のミラーをホストするか、"
     },
-    "locale": "",
+    "locale": "言語",
     "misc": {
-        "developers": "",
-        "magicItems": "",
-        "currentlyHome": "",
-        "monsters": ""
+        "developers": "悪い開発者",
+        "magicItems": "マジックアイテム",
+        "currentlyHome": "現在のホーム...",
+        "monsters": "モンスター"
     },
     "mode": {
-        "day": "",
+        "day": "デイモード",
         "night": ""
     },
     "players": {
@@ -48,11 +48,11 @@
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
         "DMG": "",
-        "MM": "",
+        "variantRules": "",
         "PHB": "",
         "coreBooks": "",
+        "MM": "",
         "rules": ""
     },
     "statgen": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
