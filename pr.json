@@ -13,7 +13,7 @@
         "home": "",
         "welcome": "Aye there, Captain!",
         "intro": "5eTools be a fine fleet for cabin boys and captains alike! Ye can hoard yer own copy by downloading from",
-        "intro2": ""
+        "intro2": "Ter run yer own copy, download the project, extract it all on yer own vessel, and open 'er up in a browser. Ya free to host yer own fleet, or contribute to the project at"
     },
     "locale": "",
     "misc": {
@@ -27,7 +27,7 @@
         "night": "Stormy Skies"
     },
     "players": {
-        "lifegen": "What's yer story?",
+        "lifegen": "What's yer story",
         "races": "What ye look like",
         "backgrounds": "Where yer from",
         "invocations": "",
@@ -38,7 +38,7 @@
     },
     "references": {
         "rewards": "",
-        "items": "",
+        "items": "Treasure",
         "deities": "",
         "psionics": "",
         "references": "",
@@ -50,7 +50,7 @@
         "quickReference": "",
         "DMG": "Captain's Charter",
         "variantRules": "The Pirate's Guidelines",
-        "PHB": "",
+        "PHB": "Sailor's Handbook",
         "coreBooks": "",
         "MM": "Davy Jones' Beasty Book",
         "rules": "The Pirate's Code"
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
     }
 }
