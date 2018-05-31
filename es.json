@@ -6,7 +6,7 @@
         "objects": "Equipo de Asedio",
         "dmOptions": "Herramientas del DM",
         "encGen": "Generador de Encuentros",
-        "crCalc": "",
+        "crCalc": "Calculador de Desafío",
         "lootGen": "Generador de Botín"
     },
     "home": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "Contenido en Lista Negra",
         "demo": "Demo de Renderizado",
-        "statBlock": "Perfiles a JSON",
         "roll20Help": "Ayuda para el Script de Roll20",
+        "statBlock": "Perfiles a JSON",
         "utils": "Utilidades"
     }
 }
