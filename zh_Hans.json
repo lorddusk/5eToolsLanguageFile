@@ -1,25 +1,25 @@
 {
     "dmOptions": {
         "cults": "",
-        "traps": "",
-        "adventures": "",
+        "traps": "陷阱与环境危害",
+        "adventures": "冒险",
         "objects": "",
-        "dmOptions": "",
+        "dmOptions": "DM专用",
         "encGen": "",
-        "crCalc": "",
+        "crCalc": "难度计算机",
         "lootGen": ""
     },
     "home": {
-        "welcome": "",
-        "home": "",
+        "home": "首页",
+        "welcome": "欢迎使用5eTools!",
         "intro": "",
         "intro2": ""
     },
-    "locale": "",
+    "locale": "语言",
     "misc": {
         "developers": "",
         "magicItems": "",
-        "currentlyHome": "",
+        "currentlyHome": "现在包括",
         "monsters": ""
     },
     "mode": {
@@ -48,11 +48,11 @@
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
         "DMG": "",
-        "MM": "",
+        "variantRules": "",
         "PHB": "",
         "coreBooks": "",
+        "MM": "",
         "rules": ""
     },
     "statgen": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
