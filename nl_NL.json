@@ -11,7 +11,9 @@
     },
     "home": {
         "home": "Startpagina",
-        "welcome": "Welkom op 5eTools!"
+        "welcome": "Welkom op 5eTools!",
+        "intro": "5eTools is een verzameling van browser-based gereedschappen voor spelers en DM's voor D&D 5e. Je kunt het gehele project hier downloaden",
+        "intro2": "Om een lokale (offline) versie te draaien, download het project, pak alle bestanden uit naar een folder, en open de html files in je browser. Je bent vrij om een eigen mirror te hosten, of om mee te helpen aan het project via"
     },
     "locale": "Taal",
     "players": {
@@ -36,10 +38,10 @@
     },
     "rules": {
         "quickReference": "Snelle Referentie",
-        "variantRules": "Afwijkende Regels",
         "DMG": "Dungeon Master's Guide",
-        "MM": "Monster Manual",
+        "variantRules": "Afwijkende Regels",
         "PHB": "Player's Handbook",
+        "MM": "Monster Manual",
         "rules": "Regels"
     },
     "statgen": {
@@ -48,8 +50,12 @@
     "utils": {
         "content": "Content Zwarte Lijst",
         "demo": "Renderer Demo",
-        "statBlock": "Stat Block naar JSON",
         "roll20Help": "Roll20 Script Hulp",
+        "statBlock": "Stat Block naar JSON",
         "utils": "Utilities"
+    },
+    "misc": {
+        "developers": "Arme ontwikkelaars",
+        "currentlyHome": "Momenteel thuis van..."
     }
 }
