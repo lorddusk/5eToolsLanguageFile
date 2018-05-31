@@ -6,7 +6,7 @@
         "objects": "",
         "dmOptions": "Captain's Tools",
         "encGen": "",
-        "crCalc": "CR Calculator",
+        "crCalc": "",
         "lootGen": "Booty Generator"
     },
     "home": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
