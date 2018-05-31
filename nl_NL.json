@@ -6,7 +6,7 @@
         "objects": "Objecten",
         "dmOptions": "DM Opties",
         "encGen": "Ontmoetings Generator",
-        "crCalc": "CR Calculator",
+        "crCalc": "CR Berek",
         "lootGen": "Buit Generator"
     },
     "home": {
@@ -41,8 +41,9 @@
         "DMG": "Dungeon Master's Guide",
         "variantRules": "Afwijkende Regels",
         "PHB": "Player's Handbook",
-        "MM": "Monster Manual",
-        "rules": "Regels"
+        "coreBooks": "Core Boeken",
+        "rules": "Regels",
+        "MM": "Monster Manual"
     },
     "statgen": {
         "statgen": "Stat Generatie"
@@ -50,12 +51,18 @@
     "utils": {
         "content": "Content Zwarte Lijst",
         "demo": "Renderer Demo",
-        "roll20Help": "Roll20 Script Hulp",
         "statBlock": "Stat Block naar JSON",
+        "roll20Help": "Roll20 Script Hulp",
         "utils": "Utilities"
     },
     "misc": {
-        "developers": "Arme ontwikkelaars",
-        "currentlyHome": "Momenteel thuis van..."
+        "developers": "Arme Ontwikkelaars",
+        "magicItems": "Magische Voorwerpen",
+        "currentlyHome": "Momenteel thuis van...",
+        "monsters": "Monsters"
+    },
+    "mode": {
+        "day": "Dag Modus",
+        "night": "Nacht Modus"
     }
 }
