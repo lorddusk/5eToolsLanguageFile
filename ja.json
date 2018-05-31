@@ -24,45 +24,45 @@
     },
     "mode": {
         "day": "デイモード",
-        "night": ""
+        "night": "ナイトモード"
     },
     "players": {
-        "lifegen": "",
-        "races": "",
+        "lifegen": "これはあなたの人生です",
+        "races": "種族",
         "backgrounds": "履歴",
-        "invocations": "",
-        "players": "",
-        "classes": "",
-        "names": "",
-        "feats": ""
+        "invocations": "呼び出し",
+        "players": "プレーヤーオプション",
+        "classes": "クラス",
+        "names": "名前",
+        "feats": "偉業"
     },
     "references": {
-        "rewards": "",
-        "items": "",
-        "deities": "",
-        "psionics": "",
-        "references": "",
-        "bestiary": "",
-        "conditions": "",
-        "spells": ""
+        "rewards": "他の報酬",
+        "items": "アイテム",
+        "deities": "神々",
+        "psionics": "サイオニクス",
+        "references": "リファレンス",
+        "bestiary": "ベスト",
+        "conditions": "症状",
+        "spells": "呪文"
     },
     "rules": {
-        "quickReference": "",
-        "DMG": "",
-        "variantRules": "",
-        "PHB": "",
-        "coreBooks": "",
-        "MM": "",
-        "rules": ""
+        "quickReference": "クイックリファレンス",
+        "DMG": "ダンジョンマスターガイド",
+        "variantRules": "バリアントルール",
+        "PHB": "プレーヤーのハンドブック",
+        "coreBooks": "コアブック",
+        "MM": "モンスターマニュアル",
+        "rules": "ルール"
     },
     "statgen": {
-        "statgen": ""
+        "statgen": "スタットジェン"
     },
     "utils": {
-        "content": "",
-        "demo": "",
-        "statBlock": "",
-        "roll20Help": "",
-        "utils": ""
+        "content": "コンテンツブラックリスト",
+        "demo": "レンダリングデモ",
+        "roll20Help": "Roll20スクリプトのヘルプ",
+        "statBlock": "スタット ブロック -> JSON",
+        "utils": "ユーティリティー"
     }
 }
