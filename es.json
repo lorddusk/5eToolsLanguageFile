@@ -19,7 +19,7 @@
     "misc": {
         "developers": "Pobres Desarrolladores",
         "magicItems": "Objetos Mágicos",
-        "currentlyHome": "Actualmente el hogar de...",
+        "currentlyHome": "Actualmente es el hogar de...",
         "monsters": "Monstruos"
     },
     "mode": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "Contenido en Lista Negra",
         "demo": "Demo de Renderizado",
-        "roll20Help": "Ayuda para el Script de Roll20",
         "statBlock": "Perfiles a JSON",
+        "roll20Help": "Ayuda para el Script de Roll20",
         "utils": "Utilidades"
     }
 }
