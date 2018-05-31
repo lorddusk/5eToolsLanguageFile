@@ -2,37 +2,37 @@
     "dmOptions": {
         "cults": "",
         "traps": "",
-        "adventures": "",
+        "adventures": "Tales and Voyages",
         "objects": "",
-        "dmOptions": "",
+        "dmOptions": "Captain's Tools",
         "encGen": "",
         "crCalc": "",
-        "lootGen": ""
+        "lootGen": "Booty Generator"
     },
     "home": {
-        "welcome": "",
         "home": "",
-        "intro": "",
+        "welcome": "Aye there, Captain!",
+        "intro": "5eTools be a fine fleet for cabin boys and captains alike! Ye can hoard yer own copy by downloading from",
         "intro2": ""
     },
     "locale": "",
     "misc": {
-        "developers": "",
-        "magicItems": "",
-        "currentlyHome": "",
-        "monsters": ""
+        "developers": "Poor Privateers",
+        "magicItems": "Buried Treasure",
+        "currentlyHome": "We be currently sailing with...",
+        "monsters": "Beasties"
     },
     "mode": {
-        "day": "",
-        "night": ""
+        "day": "Clear Skies",
+        "night": "Stormy Skies"
     },
     "players": {
-        "lifegen": "",
-        "races": "",
-        "backgrounds": "",
+        "lifegen": "What's yer story?",
+        "races": "What ye look like",
+        "backgrounds": "Where yer from",
         "invocations": "",
         "players": "",
-        "classes": "",
+        "classes": "What ye can do",
         "names": "",
         "feats": ""
     },
@@ -42,18 +42,18 @@
         "deities": "",
         "psionics": "",
         "references": "",
-        "bestiary": "",
+        "bestiary": "The Beasty Book",
         "conditions": "",
         "spells": ""
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
-        "DMG": "",
-        "MM": "",
+        "DMG": "Captain's Charter",
+        "variantRules": "The Pirate's Guidelines",
         "PHB": "",
         "coreBooks": "",
-        "rules": ""
+        "MM": "Davy Jones' Beasty Book",
+        "rules": "The Pirate's Code"
     },
     "statgen": {
         "statgen": ""
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
