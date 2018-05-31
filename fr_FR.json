@@ -31,7 +31,7 @@
         "items": "Équipement",
         "deities": "Divinités",
         "psionics": "Psioniques",
-        "references": "Réferences",
+        "references": "Références",
         "bestiary": "Bestiaire",
         "conditions": "Conditions",
         "spells": "Sorts"
@@ -51,8 +51,8 @@
     "utils": {
         "content": "Liste Noire pour Contenu",
         "demo": "Démo de Rendu",
-        "statBlock": "Stat Block vers JSON",
         "roll20Help": "Aide pour le Script Roll20",
+        "statBlock": "Stat Block vers JSON",
         "utils": "Utilitaires"
     },
     "misc": {
