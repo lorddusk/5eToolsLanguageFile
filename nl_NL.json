@@ -6,7 +6,7 @@
         "objects": "Objecten",
         "dmOptions": "DM Opties",
         "encGen": "Ontmoetings Generator",
-        "crCalc": "CR Berek",
+        "crCalc": "CR Rekenmachine",
         "lootGen": "Buit Generator"
     },
     "home": {
@@ -50,15 +50,15 @@
     },
     "utils": {
         "content": "Content Zwarte Lijst",
-        "demo": "Renderer Demo",
-        "statBlock": "Stat Block naar JSON",
+        "demo": "Renderer Demonstratie",
         "roll20Help": "Roll20 Script Hulp",
-        "utils": "Utilities"
+        "statBlock": "Stat Block naar JSON",
+        "utils": "Nuttigheden"
     },
     "misc": {
         "developers": "Arme Ontwikkelaars",
         "magicItems": "Magische Voorwerpen",
-        "currentlyHome": "Momenteel thuis van...",
+        "currentlyHome": "Momenteel thuis van…",
         "monsters": "Monsters"
     },
     "mode": {
