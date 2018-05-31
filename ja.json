@@ -61,8 +61,8 @@
     "utils": {
         "content": "コンテンツブラックリスト",
         "demo": "レンダリングデモ",
-        "roll20Help": "Roll20スクリプトのヘルプ",
         "statBlock": "スタット ブロック -> JSON",
+        "roll20Help": "Roll20スクリプトのヘルプ",
         "utils": "ユーティリティー"
     }
 }
