@@ -10,12 +10,12 @@
         "lootGen": "Booty Generator"
     },
     "home": {
-        "home": "",
+        "home": "Top Deck",
         "welcome": "Aye there, Captain!",
         "intro": "5eTools be a fine fleet for cabin boys and captains alike! Ye can hoard yer own copy by downloading from",
         "intro2": "Ter run yer own copy, download the project, extract it all on yer own vessel, and open 'er up in a browser. Ya free to host yer own fleet, or contribute to the project at"
     },
-    "locale": "",
+    "locale": "Tongues",
     "misc": {
         "developers": "Poor Privateers",
         "magicItems": "Buried Treasure",
@@ -37,7 +37,7 @@
         "feats": ""
     },
     "references": {
-        "rewards": "",
+        "rewards": "Other Booty",
         "items": "Treasure",
         "deities": "",
         "psionics": "",
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
     }
 }
