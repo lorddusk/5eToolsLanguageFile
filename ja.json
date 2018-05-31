@@ -1,0 +1,68 @@
+{
+    "dmOptions": {
+        "cults": "",
+        "traps": "",
+        "adventures": "",
+        "objects": "",
+        "dmOptions": "",
+        "encGen": "",
+        "crCalc": "",
+        "lootGen": ""
+    },
+    "home": {
+        "welcome": "",
+        "home": "",
+        "intro": "",
+        "intro2": ""
+    },
+    "locale": "",
+    "misc": {
+        "developers": "",
+        "magicItems": "",
+        "currentlyHome": "",
+        "monsters": ""
+    },
+    "mode": {
+        "day": "",
+        "night": ""
+    },
+    "players": {
+        "lifegen": "",
+        "races": "",
+        "backgrounds": "",
+        "invocations": "",
+        "players": "",
+        "classes": "",
+        "names": "",
+        "feats": ""
+    },
+    "references": {
+        "rewards": "",
+        "items": "",
+        "deities": "",
+        "psionics": "",
+        "references": "",
+        "bestiary": "",
+        "conditions": "",
+        "spells": ""
+    },
+    "rules": {
+        "quickReference": "",
+        "variantRules": "",
+        "DMG": "",
+        "MM": "",
+        "PHB": "",
+        "coreBooks": "",
+        "rules": ""
+    },
+    "statgen": {
+        "statgen": ""
+    },
+    "utils": {
+        "content": "",
+        "demo": "",
+        "statBlock": "",
+        "roll20Help": "",
+        "utils": ""
+    }
+}
