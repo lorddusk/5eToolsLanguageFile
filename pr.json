@@ -31,7 +31,7 @@
         "races": "What ye look like",
         "backgrounds": "Where yer from",
         "invocations": "",
-        "players": "",
+        "players": "Sailor Options",
         "classes": "What ye can do",
         "names": "",
         "feats": ""
@@ -41,7 +41,7 @@
         "items": "Treasure",
         "deities": "",
         "psionics": "",
-        "references": "",
+        "references": "Maps and Charts",
         "bestiary": "The Beasty Book",
         "conditions": "",
         "spells": ""
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
