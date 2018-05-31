@@ -1,6 +1,6 @@
 {
     "dmOptions": {
-        "cults": "Cultos y Bendiciones demoniacas",
+        "cults": "Cultos y Bendiciones Demoniacas",
         "traps": "Trampas",
         "adventures": "Aventuras",
         "objects": "Equipo de Asedio",
@@ -61,8 +61,8 @@
     "utils": {
         "content": "Contenido en Lista Negra",
         "demo": "Demo de Renderizado",
-        "roll20Help": "Ayuda para el Script de Roll20",
         "statBlock": "Perfiles a JSON",
+        "roll20Help": "Ayuda para el Script de Roll20",
         "utils": "Utilidades"
     }
 }
