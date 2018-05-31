@@ -17,24 +17,24 @@
     },
     "locale": "语言",
     "misc": {
-        "developers": "",
-        "magicItems": "",
-        "currentlyHome": "现在包括",
-        "monsters": ""
+        "developers": "可怜的开发员们",
+        "magicItems": "魔法物品",
+        "currentlyHome": "现在包括...",
+        "monsters": "怪物"
     },
     "mode": {
-        "day": "",
-        "night": ""
+        "day": "白天模式",
+        "night": "黑夜模式"
     },
     "players": {
         "lifegen": "",
         "races": "",
-        "backgrounds": "",
-        "invocations": "",
+        "backgrounds": "背景",
+        "invocations": "魔能祈换",
         "players": "",
-        "classes": "",
+        "classes": "职业",
         "names": "",
-        "feats": ""
+        "feats": "专长"
     },
     "references": {
         "rewards": "",
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
     }
 }
