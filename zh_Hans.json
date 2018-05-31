@@ -27,13 +27,13 @@
         "night": "黑夜模式"
     },
     "players": {
-        "lifegen": "",
+        "lifegen": "您的人生故事",
         "races": "",
         "backgrounds": "背景",
-        "invocations": "魔能祈换",
+        "invocations": "魔能祈唤",
         "players": "",
         "classes": "职业",
-        "names": "",
+        "names": "名字发生器",
         "feats": "专长"
     },
     "references": {
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
