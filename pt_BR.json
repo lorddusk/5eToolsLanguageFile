@@ -10,8 +10,8 @@
         "lootGen": "Gerador de Tesouro"
     },
     "home": {
-        "welcome": "Bem-vindo ao 5eTools!",
         "home": "Página Principal",
+        "welcome": "Bem-vindo ao 5eTools!",
         "intro": "5eTools é um conjunto de ferramentas de navegador para jogadores e Mestres do D&D 5e. Você pode baixar o projeto inteiro do",
         "intro2": "Para executar uma cópia local (offline), simplesmente baixe o projeto, extraia-o por completo em uma pasta e abra os arquivos html em um navegador. Você é livre para hospedar sua própria cópia ou contribuir com o projeto via"
     },
@@ -38,11 +38,11 @@
     },
     "rules": {
         "quickReference": "Referência Rápida",
-        "variantRules": "Regras Variantes",
         "DMG": "Guia do Mestre",
-        "MM": "Manual dos Monstros",
+        "variantRules": "Regras Variantes",
         "PHB": "Livro do Jogador",
         "coreBooks": "Livros Básicos",
+        "MM": "Manual dos Monstros",
         "rules": "Regras"
     },
     "statgen": {
@@ -51,8 +51,8 @@
     "utils": {
         "content": "Lista Negra de Conteúdo",
         "demo": "Demo do Renderizador",
-        "statBlock": "Stat Block para JSON",
         "roll20Help": "Ajuda no Script do Roll20",
+        "statBlock": "Stat Block para JSON",
         "utils": "Utilidades"
     },
     "misc": {
@@ -64,5 +64,9 @@
     "mode": {
         "day": "Tema Claro",
         "night": "Tema Escuro"
+    },
+    "faq": {
+        "answer3": "Nós planejamos dar suporte à Windows e Andriod; principalmente porque eles são dispositivos que nós normalmente temos acesso. Devido à quantidade de informção mostrada, nós geralmente focamos pelo melhor visual-e-praticidade ao usar um monitor ao invés da tela de um smartphone. Assim como o nosso suporte à navegadores, você talvez queira mudar para um dispositivo suportado melhor para poder ter uma experiência melhor / mais segura ao usar a internet.",
+        "answer2": "Nós planejamos ter suporte completo à <b>todos</b> os navegadores comuns, como Chrome e Firefox. Não temos planos parar dar suporte à navegadores da Microsoft. Outros navegadores, como Safari e Opera, talvez funcionem, mas você talvez queira mudar para um browser melhor para poder ter a melhor experiência ao usar a internet."
     }
 }
