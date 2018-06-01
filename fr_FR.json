@@ -10,10 +10,21 @@
         "lootGen": "Générateur de Butin"
     },
     "home": {
-        "home": "Accueil",
+        "classes": "Explorez toutes les classes et sous-classes, avec des filtres pour un référencement facilité.",
+        "deities": "Informations sur tous les Dieux et Déesses disponibles dans D&D 5e.",
         "welcome": "Bienvenue sur 5eTools !",
+        "backgrounds": "Tous les historiques, incluant les suppléments et Adventurer's League.",
+        "invocations": "Explorez toutes les invocations disponibles pour votre Sorcier.",
         "intro": "5eTools est une suite d'outils accessibles par navigateur pour joueurs et MJs de D&D 5e. Vous pouvez télécharger le projet complet depuis",
-        "intro2": "Pour exécuter une copie locale (hors-ligne), téléchargez simplement le projet, extrayez le dans un dossier et ouvrez les fichiers html dans votre navigateur. Vous êtes libres d'héberger votre propre miroir, ou de contribuer au projet via"
+        "books": {
+            "1": "Vous trouverez ici les versions complètes de",
+            "2": "si vous en avez besoin individuellement."
+        },
+        "intro2": "Pour exécuter une copie locale (hors-ligne), téléchargez simplement le projet, extrayez le dans un dossier et ouvrez les fichiers html dans votre navigateur. Vous êtes libres d'héberger votre propre miroir, ou de contribuer au projet via",
+        "home": "Accueil",
+        "bestiary": "Fournit une liste filtrable de plus de 1000 stat blocks pour D&D 5e. Vous pouvez les afficher et lancer chaque jet d'attaque et de dégâts en ligne en un clic.",
+        "conditions": "Liste de toutes des conditions de D&D 5e.",
+        "feats": "Une liste rapide d'utilisation des dons disponibles dans tous les livres."
     },
     "locale": "Langue",
     "players": {
@@ -51,8 +62,8 @@
     "utils": {
         "content": "Liste Noire pour Contenu",
         "demo": "Démo de Rendu",
-        "statBlock": "Stat Block vers JSON",
         "roll20Help": "Aide pour le Script Roll20",
+        "statBlock": "Stat Block vers JSON",
         "utils": "Utilitaires"
     },
     "misc": {
