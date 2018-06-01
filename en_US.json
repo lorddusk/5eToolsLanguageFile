@@ -10,14 +10,33 @@
     "traps": "Traps & Hazards"
   },
   "home": {
+    "backgrounds": "All backgrounds, including supplements and Adventurers' League.",
+    "bestiary": "Provides a searchable, filterable list of the more than 1,000 stat blocks in D&D 5e. You can display them and each attack and damage roll can be done in-line with just a click.",
+    "books": {
+      "1": "There are also full versions of the",
+      "2": "should you need them individually."
+    },
+    "classes": "Browse all classes and subclasses, with filters for easier reference.",
+    "conditions": "A list of all the conditions in D&D 5e.",
+    "deities": "Information about all of the Gods and Goddesses available in D&D 5e.",
+    "feats": "A quick-use list of feats from all the books.",
     "home": "Home",
     "intro": "5eTools is a suite of browser-based tools for players and DMs of D&D 5e. You can download the entire project from",
     "intro2": "To run a local (offline) copy, simply download the project, extract it all to a folder, and open the html files in a browser. You're free to host your own mirror, or contribute to the project via",
+    "invocations": "Browse all available invocations for your Warlock character.",
+    "items": "Lists the mundane and magical items currently in D&D 5e, allowing quick access to their properties.",
+    "lifegen": "Take your chances in life with this automated version of the background generator from Xanathar's Guide.",
+    "names": "A name roller for each of the races in D&D 5e.",
+    "races": "Browse all races and subraces, with filters for easier reference.",
+    "rewards": "Lists the blessings, boons, and charms currently in D&D 5e, allowing quick access to their properties.",
+    "rules": "The core 5e rules in one place.",
+    "spellspsionics": "A searchable spellbook and list of Mystic powers from Unearthed Arcana, which can be shared through the generated URL.",
+    "variantRules": "Variant and optional rules from all the books.",
     "welcome": "Welcome to 5eTools!"
   },
   "locale": "Language",
   "misc": {
-    "currentlyHome": "Currently home to...",
+    "currentlyHome": "Curently home to...",
     "developers": "Poor Developers",
     "magicItems": "Magic Items",
     "monsters": "Monsters"
