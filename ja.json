@@ -61,8 +61,19 @@
     "utils": {
         "content": "コンテンツブラックリスト",
         "demo": "レンダリングデモ",
-        "statBlock": "スタット ブロック -> JSON",
         "roll20Help": "Roll20スクリプトのヘルプ",
+        "statBlock": "スタット ブロック -> JSON",
         "utils": "ユーティリティー"
+    },
+    "faq": {
+        "faq": "よくある質問",
+        "question5": "すべてが変わり続ける。",
+        "question4": "フィルタリング。",
+        "question6": "リンク。",
+        "question1": "どのくらいの頻度でこのサイトを更新しますか？",
+        "question3": "デバイスサポート。",
+        "question2": "ブラウザサポート。",
+        "question9": "ホバー。",
+        "question8": "ソーティング。"
     }
 }
