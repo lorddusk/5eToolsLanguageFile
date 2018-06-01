@@ -51,8 +51,8 @@
     "utils": {
         "content": "Liste Noire pour Contenu",
         "demo": "Démo de Rendu",
-        "roll20Help": "Aide pour le Script Roll20",
         "statBlock": "Stat Block vers JSON",
+        "roll20Help": "Aide pour le Script Roll20",
         "utils": "Utilitaires"
     },
     "misc": {
