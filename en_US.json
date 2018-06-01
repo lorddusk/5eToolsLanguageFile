@@ -9,16 +9,49 @@
     "objects": "Objects",
     "traps": "Traps & Hazards"
   },
+  "faq": {
+    "answer1": "Anywhere between once a day to twice a week. To hear the latest updates, join our Discord.",
+    "answer2": "We aim to fully support <b>all</b> commonly used browsers, i.e. Chrome and Firefox. We have no plans to support any Microsoft browsers. Other browsers, e.g. Safari and Opera, might work OK but you may wish to upgrade to a better browser in order to have a better experience when using the internet.",
+    "answer3": "We aim to support Windows and Android; mainly because they're the devices we usually have access to. Due to the amount of information displayed we typically aim for the best look-and-feel when using a monitor rather than a smartphone screen. Similar to our browser support, you may wish to upgrade to a better supported device in order to have a more secure / better experience when using the internet.",
+    "answer4": "On most of the pages we have filters. By default we include and/or exclude certain things. The filter will include anything that's blue and exclude anything that's red. For example, if you want to see all spells from Xanathar's Guide to Everything that a Warlock can use but can't be used by a Wizard then you need to have \"Xanathar's Guide to Everything\" and \"Warlock\" in blue and \"Wizard\" in red - when you're in the Filter drop-down clicking an icon cycles the color from white (it doesn't matter either way) to blue (include these things) to red (exclude these things). If you get lost then simply click the Reset button and the filtering will go back to the default for that page.",
+    "answer5": "Yes - it does; that's because we want to keep improving this site. We rarely delete data, but it may appear to be \"missing\"; that's often due to the filter settings. If you find entries are wrong then please let us know, e.g. using Discord or raise an issue in GitHub; we're typically very responsive. Similarly, if you have any good suggestions for improvements then we're up for that too! No change is too small to tell us about, e.g. spelling mistakes and links not working, but the bigger changes might take some time to get to the top of our priority list.",
+    "answer6": "Much of the content includes hyperlinks to other parts of our site. Similarly, other things may look like links but they're often die-rollers, e.g. click on a 1d4+2 and we'll do the dice rolling for you and the results appear at the bottom of the screen. If in doubt, give it a click and see what it does!",
+    "answer7": "Night Mode, with a dark background and lighter text, is a relatively recent new feature and we're still putting the finishing touches to its look-and-feel.",
+    "answer8": "If you click on the column name in a table then the data in that column is sorted; clicking on it again will reverse the sort direction. Where possible, we've tried to be logical about the sorting, e.g. Self then touch then various distances then Unlimited and Special at the far end; some of the sorting is still work-in-progress - if you have any good ideas on how to improve it please let us know, e.g. sorting by Ability in Feats.",
+    "answer9": "Some of the things on the page will pop-up a tooltip if you hover the mouse over them, e.g. our source abbreviations will pop-up with the full name of the source. Actions and skill checks also have tooltips on some pages.",
+    "faq": "FAQ / Help",
+    "question1": "How often do you guys update this site?",
+    "question2": "Browser Support.",
+    "question3": "Device Support.",
+    "question4": "Filtering.",
+    "question5": "Everything keeps changing.",
+    "question6": "Links.",
+    "question7": "Day/Night Mode.",
+    "question8": "Sorting.",
+    "question9": "Hover."
+  },
   "home": {
+    "adventures": "A work-in-progress list of all officially released adventures for D&D 5e.",
     "backgrounds": "All backgrounds, including supplements and Adventurers' League.",
     "bestiary": "Provides a searchable, filterable list of the more than 1,000 stat blocks in D&D 5e. You can display them and each attack and damage roll can be done in-line with just a click.",
+    "blacklist": "This page allows you to create configurations which \"blacklist\" site content, hiding it from list pages.",
     "books": {
       "1": "There are also full versions of the",
       "2": "should you need them individually."
     },
     "classes": "Browse all classes and subclasses, with filters for easier reference.",
     "conditions": "A list of all the conditions in D&D 5e.",
+    "converter": "Have created a monster of your own and want it converted in the 5eTools format? You can use this tool for that.",
+    "crCalc": "Provides a verbose, in-depth Challenge Rating calculator, for determining the CR of custom monsters made for D&D 5e.",
+    "cults": "Lists all cults and demonic boons in the UA: Fiendish Options. Deities.html lists all the gods in D&D 5e.",
     "deities": "Information about all of the Gods and Goddesses available in D&D 5e.",
+    "demo": "Want to know how your homebrew json will look like on 5eTools? Use this handy preview tool.",
+    "discord": {
+      "intro": "Use Discord?",
+      "intro1": "Now you can join our server for the latest news, updates, and more!",
+      "join": "Join Us"
+    },
+    "encGen": "Need a quick encounter for your party? With these tables from Xanathar's Guide you can sort by terrain and level.",
     "feats": "A quick-use list of feats from all the books.",
     "home": "Home",
     "intro": "5eTools is a suite of browser-based tools for players and DMs of D&D 5e. You can download the entire project from",
@@ -26,17 +59,26 @@
     "invocations": "Browse all available invocations for your Warlock character.",
     "items": "Lists the mundane and magical items currently in D&D 5e, allowing quick access to their properties.",
     "lifegen": "Take your chances in life with this automated version of the background generator from Xanathar's Guide.",
+    "lootGen": "A random loot generator for both individual and hoard treasure based on CR for D&D 5e.",
     "names": "A name roller for each of the races in D&D 5e.",
+    "objects": "A list for farger tools that aren't items, such as ballista's.",
     "races": "Browse all races and subraces, with filters for easier reference.",
     "rewards": "Lists the blessings, boons, and charms currently in D&D 5e, allowing quick access to their properties.",
+    "roll20": {
+      "guide": "Roll20 Guide",
+      "intro": "Use Roll20?",
+      "intro1": "Did you know we have a created a plugin for Roll20 that allows you to import 5eTools directly into it?",
+      "intro2": "As a player, you can import character options, spells, and items to quickly fill out a sheet. As a GM, you can make handout copies of these, as well as import monsters, objects, and adventures."
+    },
     "rules": "The core 5e rules in one place.",
     "spellspsionics": "A searchable spellbook and list of Mystic powers from Unearthed Arcana, which can be shared through the generated URL.",
+    "traps": "A list of traps and hazard a DM can use to throw in the path of players.",
     "variantRules": "Variant and optional rules from all the books.",
     "welcome": "Welcome to 5eTools!"
   },
   "locale": "Language",
   "misc": {
-    "currentlyHome": "Curently home to...",
+    "currentlyHome": "Currently home to...",
     "developers": "Poor Developers",
     "magicItems": "Magic Items",
     "monsters": "Monsters"
