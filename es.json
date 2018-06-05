@@ -20,6 +20,7 @@
             "1": "También hay versiones completas de",
             "2": "si las necesitaras de manera individual."
         },
+        "names": "Un generador de nombres para cada una de las razas de D&D 5e.",
         "encGen": "¿Necesitas un enfrentamiento rápido para tu grupo? Con estas tablas de La Guía de Xanathar puedes ordenarlos por terreno y nivel.",
         "home": "Inicio",
         "crCalc": "Proporciona una calculadora detallada de nivel de Desafío, para determinar el Desafío de monstruos personalizados hechos para D&D 5e.",
@@ -27,19 +28,26 @@
         "conditions": "Una lista con todos los estados en D&D 5e.",
         "feats": "Una lista de uso rápido de las dotes de todos los libros.",
         "backgrounds": "Todos los trasfondos, incluidos suplementos y Adventurers' League.",
+        "rewards": "Lista las bendiciones, maldiciones, y encantamientos que existen actualmente en D&d 5e, permitiendo un acceso rápido a sus propiedades.",
         "lifegen": "Arriésgate en la vida con esta versión automática del generador de trasfondos de La Guía de Xanathar.",
         "welcome": "Bienvenido a 5eTools!",
         "blacklist": "Esta página te da la opción de crear configuraciones que ponen contenido en \"la lista negra\", ocultándolo de las listas de las páginas.",
+        "objects": "Una lista para maquinaria grande que no son objetos, como por ejemplo una balista.",
         "bestiary": "Proporciona una lista en la que se puede buscar y filtrar de mas de 1.000 perfiles en D&D 5e. Puedes mostrarlos y hacer cada tirada de ataque y daño solo con un click.",
         "lootGen": "Un generador aleatorio de botín para tesoros individuales y acumulados basados en el nivel de Desafío para D&D 5e.",
         "cults": "Lista todos los cultos y bendiciones demoníacas en los Arcanos Desenterrados: Opciones demoníacas. Deities.html lista todos los dioses en D&D 5e.",
         "converter": "¿Has creado un monstruo y quieres pasarlo al formato de 5eTools? Puedes usar esta herramienta para eso.",
         "items": "Lista los objetos mundanos y mágicos que existen actualmente en D&D 5e, permitiendo un acceso rápido a sus propiedades.",
+        "races": "Muestra todas las razas y subrazas, con filtros para una referencia más fácil.",
         "deities": "Información de todos los Dioses y Diosas disponibles en D&D 5e.",
         "adventures": "Una lista con el trabajo en proceso de todas las aventuras oficiales publicadas para D&D 5e.",
         "invocations": "Muestra todas las invocaciones disponibles para tu personaje Brujo.",
         "classes": "Muestra todas las clases y subclases, con filtros para una referencia más facil.",
-        "intro2": "Para ejecutar una copia local (sin conexión a internet), simplemente descarga el proyecto, extrae todo el contenido en una carpeta y abre los ficheros html en un navegador. Puedes hospedar una copia de la pagina en tu propio servidor, o contribuir al proyecto via"
+        "intro2": "Para ejecutar una copia local (sin conexión a internet), simplemente descarga el proyecto, extrae todo el contenido en una carpeta y abre los ficheros html en un navegador. Puedes hospedar una copia de la pagina en tu propio servidor, o contribuir al proyecto via",
+        "roll20": {
+            "intro": "Usas Roll20?",
+            "guide": "Guía para Roll20"
+        }
     },
     "locale": "Idioma",
     "misc": {
@@ -87,18 +95,18 @@
     "utils": {
         "content": "Contenido en Lista Negra",
         "demo": "Demo de Renderizado",
-        "statBlock": "Perfiles a JSON",
         "roll20Help": "Ayuda para el Script de Roll20",
+        "statBlock": "Perfiles a JSON",
         "utils": "Utilidades"
     },
     "faq": {
-        "answer6": "La mayoría del contenido incluye hipervínculos a otras partes de nuestra web. Algunas otras podrían parecerlo pero son normalmente tira-dados, p. ej. pica en 1d4+2 y tiraremos el dado por ti haciendo que aparezca el resultado en la parte baja de la pantalla. Si tienes dudas, pica y descubre que hace!",
+        "faq": "FAQ / Ayuda",
         "answer9": "Algunas veces los elementos de la pagina mostraran un mensaje de ayuda si pasas el ratón por encima, p. ej. nuestras abreviaciones sobre donde proviene un dato mostraran un mensaje con el nombre completo de la fuente. Acciones y tiradas de habilidades también tiene muestran mensajes en algunas paginas.",
         "answer8": "Si picas en el nombre de una columna de una tabla dicha tabla se ordenara por los valores de esa columna; picar en ella de nuevo invertirá la ordenación. Donde es posible, hemos intentado usar la lógica para la ordenación, p. ej. Uno mismo, a distancia cuerpo a cuerpo, diferentes distancias, ilimitado, y especial al final; algunos sistemas de ordenación están aun en proceso - si tienes alguna buena idea sobre como mejorarlos háznoslo saber, p. ej. ordenando por capacidades en dotes.",
         "answer5": "Si - cambia; Esto se debe a que queremos seguir mejorando esta web. Rara vez eliminamos información, pero podría parecer que ha \"desaparecido\"; normalmente se debe a las opciones de los filtros. Si encuentras algún error por favor háznoslo saber, p. ej. usando Discord o creando una entrada de error en GitHub; solemos estar atentos para responder. Ademas, si tienes alguna buena idea de mejoras también esperamos noticias! No hay cambio demasiado pequeño para contarnos, p. ej. errores ortográficos y enlaces que no funcionan, aunque cambios grandes podrían tomar algo de tiempo en llegar a lo mas alto de nuestra lista de prioridades.",
         "answer4": "En la mayoría de las páginas encontramos filtros. Por defecto incluimos y/o excluimos ciertas cosas. El filtro incluirá cualquier cosa marcada de azul y excluirá cualquiera de rojo. Por ejemplo, si quisieras ver todos los conjuros de La Guía de Xanathar para Todo que pueda usar un Brujo pero no pueda usar un Mago tendrías que tener \"La Guía de Xanathar para Todo\" y \"Brujo\" en azul y \"Mago\" en rojo - Cuando estas en el menú desplegable de filtros picar en cualquier icono varía el color de blanco (no importa la inclusión o exclusión) a azul (incluye estos elementos) a rojo (excluye estos elementos). Si te pierdes simplemente pica en el botón de Restablecer para volver a situar los filtros en las opciones por defecto de la página.",
         "answer7": "Modo Noche, con un fondo oscuro y un texto claro, es una característica relativamente nueva y aun estamos dando los últimos toques a su apariencia y sensación.",
-        "faq": "FAQ / Ayuda",
+        "answer6": "La mayoría del contenido incluye hipervínculos a otras partes de nuestra web. Algunas otras podrían parecerlo pero son normalmente tira-dados, p. ej. pica en 1d4+2 y tiraremos el dado por ti haciendo que aparezca el resultado en la parte baja de la pantalla. Si tienes dudas, pica y descubre que hace!",
         "answer1": "Entre una vez al día y dos a la semana. Para estar informado de las ultimas actualizaciones únete a nuestro servidor de Discord.",
         "answer3": "Nuestro objetivo es dar soporte a Windows y Android; principalmente porque son los dispositivos a los que por norma general tenemos acceso. Debido a la cantidad de información mostrada intentamos conseguir el mejor en aspecto y sensación con una pantalla de ordenador en vez de en un smartphone. Al igual que con nuestro soporte a navegadores web, quizá prefieras pasarte a un dispositivo con mejor soporte para tener una mejor y mas segura experiencia cuando navegas por internet.",
         "answer2": "Nuestro objetivo es funcionar en <b>todos</b> los navegadores comunes, p. ej. Chrome y Firefox. No tenemos planes de dar soporte a ningún navegador de Microsoft. Otros navegadores, como son Safari y Opera, podrían funcionar pero quizá prefieras actualizarte a un navegador mejor para conseguir una mejor experiencia cuando navegas por Internet.",
