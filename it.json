@@ -61,8 +61,11 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
+    },
+    "faq": {
+        "answer2": "Miriamo a supportare pienamente <b>tutti</b> browser comunemente usati, Chrome e Firefox. Non abbiamo in programma di supportare nessuno dei browser Microsoft. Altri browser, e.g. Safari e Opera, potrebbero funzionare ma potresti voler eseguire l'aggiornamento a un browser migliore per avere un'esperienza migliore quando utilizzi Internet."
     }
 }
