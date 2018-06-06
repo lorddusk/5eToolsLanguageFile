@@ -1,6 +1,6 @@
 {
     "dmOptions": {
-        "cults": "Cultes et Bénédictions Démoniaques",
+        "cults": "Cultes et Faveurs Démoniaques",
         "traps": "Pièges et Dangers",
         "adventures": "Aventures",
         "objects": "Objets",
@@ -10,23 +10,24 @@
         "lootGen": "Générateur de Butin"
     },
     "home": {
+        "objects": "Une liste d'objets plus grands qui ne sont pas des équipements, comme une baliste.",
         "discord": {
             "intro": "Vous utilisez Discord ?",
-            "intro1": "Vous pouvez maintenant rejoindre notre serveur pour les dernières nouvelles, mises à jour et plus encore!"
+            "join": "Rejoignez-nous",
+            "intro1": "Vous pouvez maintenant rejoindre notre serveur pour les dernières nouvelles, mises à jour et plus encore !"
         },
         "demo": "Vous voulez savoir à quoi ressemblerait votre JSON fait maison sur 5eTools? Utilisez cet outil d'aperçu pratique.",
         "intro": "5eTools est une suite d'outils accessibles par navigateur pour joueurs et MJs de D&D 5e. Vous pouvez télécharger le projet complet depuis",
-        "books": {
-            "1": "Vous trouverez ici les versions complètes de",
-            "2": "si vous en avez besoin individuellement."
-        },
         "names": "Un générateur de nom pour chaque race de D&D 5e.",
+        "encGen": "Besoin d'une rencontre rapide pour votre groupe? Avec ces tableaux venant du Xanathar's Guide, vous pouvez trier par environnement et niveau.",
         "home": "Accueil",
         "crCalc": "Calculateur de Facteur de Puissance détaillé, pour déterminer le FP de monstres personnalisés pour D&D 5e.",
+        "traps": "Une liste de pièges et dangers que le MJ peut utiliser pour obstruer le chemin des joueurs.",
         "spellspsionics": "Un livre de sorts ainsi que la liste des pouvoirs de Mystique de Unearthed Arcana, qui peuvent être partagés via l'URL générée.",
+        "classes": "Explorez toutes les classes et sous-classes, avec des filtres pour un référencement facilité.",
+        "deities": "Informations sur tous les Dieux et Déesses disponibles dans D&D 5e.",
         "conditions": "Liste de toutes des conditions de D&D 5e.",
         "feats": "Une liste rapide d'utilisation des dons disponibles dans tous les livres.",
-        "backgrounds": "Tous les historiques, incluant les suppléments et Adventurer's League.",
         "rewards": "Liste des bénédictions, avantages démoniaques et charmes actuellement dans D&D 5e, permettant un accès rapide à leurs propriétés.",
         "lifegen": "Tentez votre chance avec cette version automatique du générateur d'historique du Xanathar's Guide.",
         "rules": "Les règles de bases de 5e.",
@@ -34,15 +35,25 @@
         "blacklist": "Cette page vous permet de configurer des \"listes noires\", cachant certain contenu des listes.",
         "races": "Explorez toutes les races et sous-races, avec des filtres pour un référencement facilité.",
         "bestiary": "Fournit une liste filtrable de plus de 1000 stat blocks pour D&D 5e. Vous pouvez les afficher et lancer chaque jet d'attaque et de dégâts en ligne en un clic.",
+        "lootGen": "Un générateur aléatoire de butin à la fois pour les individus et les trésors, en fonction du FP pour D&D 5e.",
         "cults": "Liste tous les cultes et les faveurs démoniaques dans l'UA: Fiendish Options. Deities.html liste tous les dieux de D&D 5e.",
         "converter": "Vous avez créé un monstre et vous voulez le convertir au format 5eTools? Vous pouvez pour cela utiliser cet outil.",
         "variantRules": "Variantes et règles optionnelles des différents livres.",
         "items": "Liste de tous les objets banals et magiques actuellement dans D&D 5e, permettant un accès rapide à leurs propriétés.",
-        "deities": "Informations sur tous les Dieux et Déesses disponibles dans D&D 5e.",
+        "backgrounds": "Tous les historiques, incluant les suppléments et Adventurer's League.",
         "adventures": "Une liste en construction de toutes les aventures officielles de D&D 5e.",
         "invocations": "Explorez toutes les invocations disponibles pour votre Sorcier.",
-        "classes": "Explorez toutes les classes et sous-classes, avec des filtres pour un référencement facilité.",
-        "intro2": "Pour exécuter une copie locale (hors-ligne), téléchargez simplement le projet, extrayez le dans un dossier et ouvrez les fichiers html dans votre navigateur. Vous êtes libres d'héberger votre propre miroir, ou de contribuer au projet via"
+        "books": {
+            "1": "Vous trouverez ici les versions complètes de",
+            "2": "si vous en avez besoin individuellement."
+        },
+        "intro2": "Pour exécuter une copie locale (hors-ligne), téléchargez simplement le projet, extrayez le dans un dossier et ouvrez les fichiers html dans votre navigateur. Vous êtes libres d'héberger votre propre miroir, ou de contribuer au projet via",
+        "roll20": {
+            "intro": "Vous utilisez Roll20 ?",
+            "guide": "Guide pour Roll20",
+            "intro2": "En tant que joueur, vous pouvez importer des options de personnages, des sorts et des équipements pour rapidement remplir votre feuille. En tant que MJ, vous pouvez en faire des copies sous forme d'aides de jeu, vous pouvez également importer des monstres, objets et aventures.",
+            "intro1": "Saviez-vous que nous avons créé un plugin pour Roll20 permettant directement d'y importer 5eTools ?"
+        }
     },
     "locale": "Langue",
     "players": {
@@ -80,8 +91,8 @@
     "utils": {
         "content": "Liste Noire pour Contenu",
         "demo": "Démo de Rendu",
-        "roll20Help": "Aide pour le Script Roll20",
         "statBlock": "Stat Block vers JSON",
+        "roll20Help": "Aide pour le Script Roll20",
         "utils": "Utilitaires"
     },
     "misc": {
@@ -95,13 +106,13 @@
         "night": "Mode Nuit"
     },
     "faq": {
-        "answer6": "La plupart du contenu comprend des hyperliens vers d'autres parties de notre site. De même, d'autres choses ressemblent à des liens mais sont souvent des jets de dés, par exemple cliquez sur un 1d4+2 et nous ferons le jet de dé pour vous, le résultat apparaissant en bas de l'écran. En cas de doute, cliquez et découvrez en l'effet !",
+        "faq": "FAQ / Aide",
         "answer9": "Certaines choses sur la page feront apparaître une info-bulle lorsque que vous passez la souris dessus, par exemple les abréviations des sources feront apparaître le nom complet de la source. Les actions et jets de caractéristique ont aussi des info-bulles sur certaines pages.",
         "answer8": "Si vous cliquez sur un nom de colonne dans un tableau, les données de cette colonne seront triées; cliquer de nouveau inversera le sens du tri. Si possible, sous essayons de faire un tri logique, par exemple Personnel puis Contact et différentes distances puis Illimité et Spécial à la fin; certains tris sont toujours un travail en cours - si vous avez des idées pour l'améliorer merci de nous le faire savoir, par exemple trier par exemple trier les Dons par Caractéristiques.",
         "answer5": "Oui - c'est le cas; c'est parce que nous voulons continuer a améliorer ce site. Nous supprimons rarement des données, mais certaines peuvent sembler \"manquantes\"; c'est souvent à cause des paramètres du filtre. Si vous trouvez des informations erronées, merci de nous le faire savoir, par exemple sur Discord ou Github; nous sommes en général très réactifs. De même, si vous avez de bonnes suggestions d'améliorations nous apprécions également votre retour! Il n'y a pas de problème trop petit pour nous avertir, comme des erreurs d'orthographe ou des liens ne fonctionnant pas, mais les plus gros changements peuvent mettre du temps à arriver en haut de notre liste de priorités.",
         "answer4": "La plupart des pages comportent des filtres. Certaines choses sont incluses et/ou exclues par défaut. Tout ce qui est bleu est inclus et tout ce qui est rouge exclu par le filtre. Par exemple, si vous voulez voir tous les sorts du Xanathar's Guide to Everything que peux utiliser un Sorcier mais pas un Magicien, vous aurez besoin d'avoir \"Xanathar's Guide to Everything\" et \"Sorcier\" en bleu et \"Magicien\" en rouge - dans le menu déroulant \"Filtrer\", cliquer sur une icone cycle la couleur de blanc (peu importe) à bleu (inclure ces choses) puis rouge (exclure ces choses). Si vous vous perdez, cliquez simplement sur le bouton \"Réinitialiser\" et le filtrage retournera au défaut pour cette page.",
         "answer7": "Le Mode Nuit, avec un fond sombre et un texte clair, est une fonctionnalité relativement récente que nous sommes toujours en train de finaliser l'apparence.",
-        "faq": "FAQ / Aide",
+        "answer6": "La plupart du contenu comprend des hyperliens vers d'autres parties de notre site. De même, d'autres choses ressemblent à des liens mais sont souvent des jets de dés, par exemple cliquez sur un 1d4+2 et nous ferons le jet de dé pour vous, le résultat apparaissant en bas de l'écran. En cas de doute, cliquez et découvrez en l'effet !",
         "answer1": "Entre une fois par jour et deux fois par semaine. Pour connaître les dernières mises à jour, rejoignez notre serveur Discord.",
         "answer3": "Notre but est la compatibilité Windows et Android; principalement car ce sont les appareils auxquels nous avons habituellement accès. En raison de la quantité d'informations affichées, nous visons généralement le meilleur visuel et ressenti sur un moniteur plutôt que sur un écran de smartphone. Tout comme notre support de navigateurs, nous vous conseillons d'utiliser un appareil avec une meilleure compatibilité pour mieux profiter d'internet.",
         "answer2": "Nous avons pour but d'être entièrement compatible avec <b>tous</b> les navigateurs couramment utilisés, c'est à dire Chrome et Firefox. Nous ne prévoyons pas de prendre en charge les navigateurs Microsoft. D'autres navigateurs, comme Safari et Opera, peuvent fonctionner correctement mais nous vous conseillons l'utilisation d'un meilleur navigateur pour mieux profiter d'internet.",
@@ -112,6 +123,7 @@
         "question1": "À quelle fréquence le site est-il mis à jour ?",
         "question3": "Support d'appareils.",
         "question2": "Support de navigateurs.",
+        "question9": "Passer le curseur certaines choses.",
         "question8": "Tri."
     }
 }
