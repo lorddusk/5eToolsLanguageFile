@@ -1,12 +1,12 @@
 {
     "dmOptions": {
-        "cults": "Culti & Benefici Demonico",
+        "cults": "Culti & Benefici Demoniaci",
         "traps": "Trappole & Pericoli",
         "adventures": "Avventure",
         "objects": "Oggetti",
         "dmOptions": "Strumenti del DM",
         "encGen": "Generatore di Incontri",
-        "crCalc": "Calcolatrice di CR",
+        "crCalc": "Calcolatrice di GS",
         "lootGen": "Generatore di Bottino"
     },
     "home": {
@@ -61,13 +61,25 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
     },
     "faq": {
-        "question2": "Browser Supportati",
+        "answer5": "Sì, lo fa; questo perché vogliamo continuare a migliorare questo sito. Raramente cancelliamo i dati, ma potrebbe sembrare \"mancante\"; questo è spesso dovuto alle impostazioni del filtro. Se trovi che le voci sono sbagliate, ti preghiamo di farcelo sapere, ad es. usando Discord o segnalandi un problema in GitHub; siamo in genere molto reattivi. Allo stesso modo, se hai qualche buon suggerimento per i miglioramenti, siamo qui anche per questo! Nessuna modifica è troppo piccola per non essere segnalata, ad es. errori di ortografia e collegamenti non funzionanti, ma i cambiamenti più grandi potrebbero richiedere del tempo per arrivare in cima alla nostra lista di priorità.",
+        "answer4": "Nella maggior parte delle pagine ci sono i filtri. Come standard sono incluse e/o escluse certe cose. Il filtro includerà tutto quello che è blu ed escluderà tutto quello che è rosso. Per esempio, se vuoi vedere tutti gli incantesimi de La Guida a Tutto di Xanathar che uno Stregone può usare ma che non può essere usato da un Mago, allora devi avere \"La Guida a Tutto di Xanathar\" e \"Stregone\" in blu e \"Mago\" in rosso - quando sei nel menu Filtri, cliccare su un icona, fa ruotare i colori dal bianco (non ha importanza) al blu (includi queste cose) al rosso (escludi queste cose). Se ti perdi allora clicca semplicemente sul pulsante Azzera e il filtraggio tornerà allo standard di quella pagina.",
+        "answer7": "La modalità notturna, con uno sfondo scuro e un testo più chiaro, è una nuova funzione relativamente recente e stiamo ancora apportando gli ultimi ritocchi al suo aspetto grafico.",
+        "answer6": "Gran parte del contenuto include collegamenti ipertestuali ad altre parti del nostro sito. Allo stesso modo, altre cose possono sembrare collegamenti ma sono spesso dei tira-dado, ad es. clicca su 1d4 + 2 e tireremo i dadi per te e i risultati appariranno nella parte inferiore dello schermo. In caso di dubbio, clicca e guarda cosa fa!",
+        "answer1": "Ovunque tra una volta al giorno a due volte a settimana. Per ascoltare gli ultimi aggiornamenti, unisciti al nostro Discord.",
+        "answer3": "Miriamo a supportare Windows e Android; principalmente perchè sono i dispositivi che utilizziamo di solito. A causa della quantità di informazioni mostrate, tipicamente miriamo al miglior aspetto ed esperienza derivante dall'utilizzo di un monitor piuttosto che da uno schermo di uno smartphone. Come per i nostri browser supportati, potresti desiderare di aggiornare ad un miglior dispositivo per godere di un esperienza più sicura e migliore quando usi internet.",
+        "answer2": "Miriamo a supportare pienamente <b>tutti</b> i browser comunemente usati, cioè Chrome e Firefox. Non abbiamo in programma di supportare nessuno dei browser Microsoft. Altri browser, ad esempio Safari e Opera, potrebbero funzionare ma potresti desiderare l'aggiornamento a un browser migliore per avere un'esperienza migliore quando utilizzi Internet.",
+        "question5": "Tutto continua a cambiare.",
+        "question4": "Filtraggio.",
+        "question7": "Modalità Diurna/Notturna.",
+        "question6": "Collegamenti.",
         "question1": "Ogni quanto tempo aggiornate questo sito?",
-        "answer2": "Miriamo a supportare pienamente <b>tutti</b> browser comunemente usati, Chrome e Firefox. Non abbiamo in programma di supportare nessuno dei browser Microsoft. Altri browser, e.g. Safari e Opera, potrebbero funzionare ma potresti voler eseguire l'aggiornamento a un browser migliore per avere un'esperienza migliore quando utilizzi Internet."
+        "question3": "Dispositivi Supportati.",
+        "question2": "Browser Supportati.",
+        "question8": "Ordinamento."
     }
 }
