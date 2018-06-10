@@ -10,68 +10,111 @@
         "lootGen": "Generatore di Bottino"
     },
     "home": {
+        "discord": {
+            "intro": "Usi Discord?",
+            "join": "Unisciti a Noi",
+            "intro1": "Ora puoi unirti al nostro server per le ultime notizie, aggiornamenti e molto altro!"
+        },
+        "backgrounds": "Tutti i background, incusi i supplementi e l'Adventurers League.",
+        "intro": "5eTools è un raccolta di strumenti basati sui browser per giocatori e DM di D&D 5e. Puoi scaricare l'intero progetto da",
+        "books": {
+            "1": "Ci sono anche versioni complete di",
+            "2": "se ne aveste bisogno individualmente."
+        },
+        "names": "Tabelle dei nomi per ciascuna delle razze in D&D 5e.",
+        "encGen": "Hai bisogno di un incontro veloce per il tuo gruppo? Con queste tabelle della Guida di Xanathar puoi ordinare per terreno e livello.",
         "home": "Inizio",
+        "crCalc": "Fornisce un approfondito calcolatore di Grado di Sfida, per determinare il GS di mostri personalizzati realizzati per D&D 5e.",
+        "traps": "Un elenco di trappole e pericoli che un DM può utilizzare sul cammino dei giocatori.",
+        "spellspsionics": "Un libro di incantesimi ricercabile e un elenco di poteri Mistici di Unearthed Arcana, che possono essere condivisi attraverso l'URL generato.",
+        "demo": "Vuoi sapere come apparirà il tuo json domestico su 5eTools? Usa questo pratico strumento di anteprima.",
+        "conditions": "Un elenco di tutte le condizioni in D&D 5e.",
+        "feats": "Una lista di rapido utilizzo dei talenti da tutti i libri.",
+        "rewards": "Elenca le benedizioni, i benefici e gli ammaliamenti attualmente in D&D 5e, consentendo un rapido accesso alle loro proprietà.",
+        "lifegen": "Cogli le opportunità della vita con questo generatore automatico di background della Guida di Xanathar.",
+        "rules": "Le regole fondamentali 5e in un unico posto.",
         "welcome": "Benvenuto in 5eTools!",
-        "intro": "",
-        "intro2": ""
+        "blacklist": "Questa pagina consente di creare configurazioni che mettono in \"lista nera\" il contenuto del sito, nascondendolo dagli elenchi delle pagine.",
+        "objects": "Un elenco di strumenti più grandi che non sono oggetti, come le baliste.",
+        "bestiary": "Fornisce un elenco ricercabile e filtrabile degli oltre 1.000 blocchi di statistiche in D&D 5e. Puoi visualizzarli e ogni tiro per colpire e per il danno possono essere eseguiti in linea con un semplice clic.",
+        "lootGen": "Un generatore casuale di bottino per tesori singoli o cumuli in base al GS per D&D 5e.",
+        "cults": "Elenca tutti i culti ed i benefici demoniaci nella UA: Opzioni Diaboliche. Deities.html elenca tutte le divinità di D&D 5e.",
+        "converter": "Hai creato un mostro tutto tuo e vuoi convertirlo nel formato 5eTools? Puoi usare questo strumento per quello.",
+        "variantRules": "Regole varianti e opzionali da tutti i libri.",
+        "items": "Elenca gli oggetti mondani e magici attualmente in D&D 5e, consentendo un rapido accesso alle loro proprietà.",
+        "races": "Sfoglia tutte le razze e sottorazze, con i filtri per una più facile consultazione.",
+        "deities": "Informazioni su tutti gli Dei e le Dee disponibili in D&D 5e.",
+        "adventures": "Un elenco di lavori in corso di tutte le avventure rilasciate ufficialmente per D&D 5e.",
+        "invocations": "Sfoglia tutte le suppliche disponibili per il tuo personaggio Warlock.",
+        "classes": "Sfoglia tutte le classi e sottoclassi, con i filtri per una più facile consultazione.",
+        "intro2": "Per eseguire una copia locale (offline), è sufficiente scaricare il progetto, estrarlo in una cartella e aprire i file html in un browser. Sei libero di ospitare il tuo mirror o di contribuire al progetto tramite",
+        "roll20": {
+            "intro": "Usi Roll20?",
+            "guide": "Guida Roll20",
+            "intro2": "Come giocatore, puoi importare opzioni del personaggio, incantesimi e oggetti per riempire rapidamente un foglio. Come DM, puoi creare volantini di queste, così come importare mostri, oggetti e avventure.",
+            "intro1": "Sapevi che abbiamo creato un plugin per Roll20 che ti permette di importare direttamente in esso 5eTools?"
+        }
     },
     "locale": "Linguaggio",
     "misc": {
-        "developers": "",
-        "magicItems": "",
-        "currentlyHome": "",
-        "monsters": ""
+        "developers": "Poveri Sviluppatori",
+        "magicItems": "Oggetti Magici",
+        "currentlyHome": "Attualmente home di...",
+        "monsters": "Mostri"
     },
     "mode": {
-        "day": "",
-        "night": ""
+        "day": "Modalità Diurna",
+        "night": "Modalità Notturna"
     },
     "players": {
-        "lifegen": "",
-        "races": "",
-        "backgrounds": "",
-        "invocations": "",
-        "players": "",
-        "classes": "",
-        "names": "",
-        "feats": ""
+        "lifegen": "Questa è la tua vita",
+        "races": "Razze",
+        "backgrounds": "Background",
+        "invocations": "Suppliche",
+        "players": "Opzioni del Giocatore",
+        "classes": "Classi",
+        "names": "Nomi",
+        "feats": "Talenti"
     },
     "references": {
-        "rewards": "",
-        "items": "",
-        "deities": "",
-        "psionics": "",
-        "references": "",
-        "bestiary": "",
-        "conditions": "",
-        "spells": ""
+        "rewards": "Altre Ricompense",
+        "items": "Oggetti",
+        "deities": "Divinità",
+        "psionics": "Psionici",
+        "references": "Riferimenti",
+        "bestiary": "Bestiario",
+        "conditions": "Condizioni",
+        "spells": "Incantesimi"
     },
     "rules": {
-        "quickReference": "",
-        "DMG": "",
-        "variantRules": "",
-        "PHB": "",
-        "coreBooks": "",
-        "MM": "",
-        "rules": ""
+        "quickReference": "Guida Rapida",
+        "DMG": "Guida del Dungeon Master",
+        "variantRules": "Regole Varianti",
+        "PHB": "Manuale del Giocatore",
+        "coreBooks": "Libri Fondamentali",
+        "MM": "Manuale dei Mostri",
+        "rules": "Regole"
     },
     "statgen": {
-        "statgen": ""
+        "statgen": "Statgen"
     },
     "utils": {
-        "content": "",
-        "demo": "",
-        "statBlock": "",
-        "roll20Help": "",
-        "utils": ""
+        "content": "Contenuto in Lista Nera",
+        "demo": "Renderer Demo",
+        "roll20Help": "Aiuto Script Roll20",
+        "statBlock": "Stat Block a JSON",
+        "utils": "Utilità"
     },
     "faq": {
+        "faq": "FAQ / Aiuto",
+        "answer9": "Alcune delle cose nella pagina mostreranno un suggerimento se passi il mouse sopra di esse, ad es. le nostre abbreviazioni delle fonti appariranno con il nome completo. Anche le azioni e le prove di caratteristica hanno i suggerimenti su alcune pagine.",
+        "answer8": "Se clicchi sul nome della colonna in una tabella, i dati di quella colonna vengono ordinati; cliccando di nuovo si invertirà la direzione di ordinamento. Dove possibile, abbiamo cercato di essere logici riguardo all'ordinamento, ad es. Incantatore poi Contatto poi le varie distanze poi Illimitata e Speciale alla fine; qualche ordinamento è ancora in fase di lavorazione - se hai qualche idea valida su come migliorarlo, faccelo sapere, ad es. ordinamento per Abilità nei Talenti.",
         "answer5": "Sì, lo fa; questo perché vogliamo continuare a migliorare questo sito. Raramente cancelliamo i dati, ma potrebbe sembrare \"mancante\"; questo è spesso dovuto alle impostazioni del filtro. Se trovi che le voci sono sbagliate, ti preghiamo di farcelo sapere, ad es. usando Discord o segnalandi un problema in GitHub; siamo in genere molto reattivi. Allo stesso modo, se hai qualche buon suggerimento per i miglioramenti, siamo qui anche per questo! Nessuna modifica è troppo piccola per non essere segnalata, ad es. errori di ortografia e collegamenti non funzionanti, ma i cambiamenti più grandi potrebbero richiedere del tempo per arrivare in cima alla nostra lista di priorità.",
-        "answer4": "Nella maggior parte delle pagine ci sono i filtri. Come standard sono incluse e/o escluse certe cose. Il filtro includerà tutto quello che è blu ed escluderà tutto quello che è rosso. Per esempio, se vuoi vedere tutti gli incantesimi de La Guida a Tutto di Xanathar che uno Stregone può usare ma che non può essere usato da un Mago, allora devi avere \"La Guida a Tutto di Xanathar\" e \"Stregone\" in blu e \"Mago\" in rosso - quando sei nel menu Filtri, cliccare su un icona, fa ruotare i colori dal bianco (non ha importanza) al blu (includi queste cose) al rosso (escludi queste cose). Se ti perdi allora clicca semplicemente sul pulsante Azzera e il filtraggio tornerà allo standard di quella pagina.",
+        "answer4": "Nella maggior parte delle pagine ci sono i filtri. Come standard sono incluse e/o escluse certe cose. Il filtro includerà tutto quello che è blu ed escluderà tutto quello che è rosso. Per esempio, se vuoi vedere tutti gli incantesimi de La Guida a Tutto di Xanathar che un Warlock può usare ma che non può essere usato da un Mago, allora devi avere \"La Guida a Tutto di Xanathar\" e \"Warlock\" in blu e \"Mago\" in rosso - quando sei nel menu Filtri, cliccare su un icona, fa ruotare i colori dal bianco (non ha importanza) al blu (includi queste cose) al rosso (escludi queste cose). Se ti perdi allora clicca semplicemente sul pulsante Azzera e il filtraggio tornerà allo standard di quella pagina.",
         "answer7": "La modalità notturna, con uno sfondo scuro e un testo più chiaro, è una nuova funzione relativamente recente e stiamo ancora apportando gli ultimi ritocchi al suo aspetto grafico.",
         "answer6": "Gran parte del contenuto include collegamenti ipertestuali ad altre parti del nostro sito. Allo stesso modo, altre cose possono sembrare collegamenti ma sono spesso dei tira-dado, ad es. clicca su 1d4 + 2 e tireremo i dadi per te e i risultati appariranno nella parte inferiore dello schermo. In caso di dubbio, clicca e guarda cosa fa!",
         "answer1": "Ovunque tra una volta al giorno a due volte a settimana. Per ascoltare gli ultimi aggiornamenti, unisciti al nostro Discord.",
-        "answer3": "Miriamo a supportare Windows e Android; principalmente perchè sono i dispositivi che utilizziamo di solito. A causa della quantità di informazioni mostrate, tipicamente miriamo al miglior aspetto ed esperienza derivante dall'utilizzo di un monitor piuttosto che da uno schermo di uno smartphone. Come per i nostri browser supportati, potresti desiderare di aggiornare ad un miglior dispositivo per godere di un esperienza più sicura e migliore quando usi internet.",
+        "answer3": "Miriamo a supportare Windows e Android; principalmente perchè sono i dispositivi che utilizziamo di solito. A causa della quantità di informazioni mostrate, tipicamente miriamo al miglior aspetto grafico derivante dall'utilizzo di un monitor piuttosto che da uno schermo di uno smartphone. Come per i nostri browser supportati, potresti desiderare l'aggiornamento a un dispositivo migliore per avere un'esperienza più sicura e migliore quando utilizzi Internet.",
         "answer2": "Miriamo a supportare pienamente <b>tutti</b> i browser comunemente usati, cioè Chrome e Firefox. Non abbiamo in programma di supportare nessuno dei browser Microsoft. Altri browser, ad esempio Safari e Opera, potrebbero funzionare ma potresti desiderare l'aggiornamento a un browser migliore per avere un'esperienza migliore quando utilizzi Internet.",
         "question5": "Tutto continua a cambiare.",
         "question4": "Filtraggio.",
@@ -80,6 +123,7 @@
         "question1": "Ogni quanto tempo aggiornate questo sito?",
         "question3": "Dispositivi Supportati.",
         "question2": "Browser Supportati.",
+        "question9": "Suggerimenti.",
         "question8": "Ordinamento."
     }
 }
