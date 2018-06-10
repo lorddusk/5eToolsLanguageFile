@@ -4,7 +4,7 @@
         "traps": "Trappole & Pericoli",
         "adventures": "Avventure",
         "objects": "Oggetti",
-        "dmOptions": "Sturnmenti del DM",
+        "dmOptions": "Strumenti del DM",
         "encGen": "Generatore di Incontri",
         "crCalc": "Calcolatrice di CR",
         "lootGen": "Generatore di Bottino"
@@ -61,11 +61,13 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     },
     "faq": {
+        "question2": "Browser Supportati",
+        "question1": "Ogni quanto tempo aggiornate questo sito?",
         "answer2": "Miriamo a supportare pienamente <b>tutti</b> browser comunemente usati, Chrome e Firefox. Non abbiamo in programma di supportare nessuno dei browser Microsoft. Altri browser, e.g. Safari e Opera, potrebbero funzionare ma potresti voler eseguire l'aggiornamento a un browser migliore per avere un'esperienza migliore quando utilizzi Internet."
     }
 }
