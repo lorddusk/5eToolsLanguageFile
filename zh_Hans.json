@@ -5,9 +5,9 @@
         "adventures": "冒险",
         "objects": "",
         "dmOptions": "DM专用",
-        "encGen": "",
+        "encGen": "随机遭遇表",
         "crCalc": "难度计算机",
-        "lootGen": "生成宝藏"
+        "lootGen": "宝藏表"
     },
     "home": {
         "home": "首页",
@@ -19,7 +19,7 @@
     "misc": {
         "developers": "可怜的开发员们",
         "magicItems": "魔法物品",
-        "currentlyHome": "现在包括...",
+        "currentlyHome": "现在包括…",
         "monsters": "怪物"
     },
     "mode": {
@@ -28,7 +28,7 @@
     },
     "players": {
         "lifegen": "您的人生故事",
-        "races": "",
+        "races": "种族",
         "backgrounds": "背景",
         "invocations": "魔能祈唤",
         "players": "",
@@ -39,18 +39,18 @@
     "references": {
         "rewards": "",
         "items": "",
-        "deities": "",
+        "deities": "诸神",
         "psionics": "",
         "references": "",
         "bestiary": "",
         "conditions": "",
-        "spells": ""
+        "spells": "法术"
     },
     "rules": {
         "quickReference": "",
-        "DMG": "",
+        "DMG": "地下城主指南",
         "variantRules": "",
-        "PHB": "",
+        "PHB": "玩家手冊",
         "coreBooks": "",
         "MM": "",
         "rules": ""
@@ -61,8 +61,11 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
+    },
+    "faq": {
+        "faq": "常见FAQ"
     }
 }
