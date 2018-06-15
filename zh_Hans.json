@@ -7,7 +7,7 @@
         "dmOptions": "DM专用",
         "encGen": "",
         "crCalc": "难度计算机",
-        "lootGen": ""
+        "lootGen": "生成战利品"
     },
     "home": {
         "home": "首页",
@@ -61,8 +61,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "roll20Help": "",
         "statBlock": "",
+        "roll20Help": "",
         "utils": ""
     }
 }
