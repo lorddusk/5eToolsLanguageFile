@@ -1,25 +1,25 @@
 {
     "dmOptions": {
-        "cults": "",
-        "traps": "",
-        "adventures": "",
-        "objects": "",
-        "dmOptions": "",
-        "encGen": "",
-        "crCalc": "",
-        "lootGen": ""
+        "cults": "Kültler ve İblis Lütufları",
+        "traps": "Tuzaklar ve Tehlikeler",
+        "adventures": "Maceralar",
+        "objects": "Nesneler",
+        "dmOptions": "DM Araçları",
+        "encGen": "Karşılaşma Üreticisi",
+        "crCalc": "CR Hesaplayıcı",
+        "lootGen": "Ganimet Üreticisi"
     },
     "faq": {
-        "faq": "",
+        "answer6": "",
         "answer9": "",
         "answer8": "",
         "answer5": "",
-        "answer4": "",
+        "answer4": "Çoğu sayfada filtrelerimiz var. Varsayılan olarak bazı şeyleri dahil ediyor yada etmiyoruz. Filtre mavi olan şeyleri dahil eder ve kırmızı olanları etmez. Örneğin, Xanathar's Guide to Everything kitabından bir Warlock'un kullanabileceği ama bir Büyücünün kullanamayacağı tüm büyüleri görmek istiyorsanız \"Xanathar's Guide to Everything\" ve \"Warlock\" mavi, \"Büyücü\" kırmızı olmalı. Filtre menüsündeyken bir ikona tıklamak onun rengini beyazdan (ikiside olabilir, farketmez) maviye (bunları dahil et), maviden kırmızıya (bunları dahil etme) çevirir. Eğer kaybolursan Reset tuşuna basman yeterlidir, o sayfa için varsayılana geri döner.",
         "answer7": "",
-        "answer6": "",
-        "answer1": "",
-        "answer3": "",
-        "answer2": "",
+        "faq": "",
+        "answer1": "Günde birle haftada iki arası. En son güncellemeleri öğrenmek için Discord'umuza katılın.",
+        "answer3": "Windows ve Android'i desteklemeyi hedefliyoruz, çünkü genel olarak erişimimiz olan cihazlar onlar. Gösterilen bilgi miktarından dolayı akıllı telefon ekranındansa, monitör kullanımı için uygun bir tasarımı hedefliyoruz. Tarayıcı desteğimiz gibi, interneti daha iyi deneyimlemek için desteklenen bir cihaza geçmeyi düşünebilirsiniz.",
+        "answer2": "Yaygın olarak kullanılan Chrome ve Firefox gibi <b>tüm</b> tarayıcıları desteklemeyi hedefliyoruz. Herhangi bir Microsoft tarayıcısını destekleme planımız yok. Safari ve Opera gibi diğer tarayıcılar belki çalışabilir ama interneti gezerken daha iyi bir deneyim yaşamanız için tarayıcınızı değiştirmeyi düşünebilirsiniz.",
         "question5": "",
         "question4": "",
         "question7": "",
@@ -36,38 +36,38 @@
             "join": "",
             "intro1": ""
         },
-        "backgrounds": "",
-        "welcome": "",
+        "demo": "",
         "intro": "",
-        "books": {
-            "1": "",
-            "2": ""
-        },
         "names": "",
         "encGen": "",
         "home": "",
         "crCalc": "",
         "spellspsionics": "",
-        "demo": "",
+        "classes": "",
+        "deities": "",
         "conditions": "",
         "feats": "",
         "rewards": "",
         "lifegen": "",
         "rules": "",
-        "traps": "",
+        "welcome": "",
         "blacklist": "",
         "objects": "",
+        "converter": "",
         "bestiary": "",
         "lootGen": "",
         "cults": "",
-        "converter": "",
+        "traps": "",
         "variantRules": "",
         "items": "",
         "races": "",
-        "deities": "",
+        "backgrounds": "",
         "adventures": "",
         "invocations": "",
-        "classes": "",
+        "books": {
+            "1": "",
+            "2": ""
+        },
         "intro2": "",
         "roll20": {
             "intro": "",
@@ -109,11 +109,11 @@
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
         "DMG": "",
-        "MM": "",
+        "variantRules": "",
         "PHB": "",
         "coreBooks": "",
+        "MM": "",
         "rules": ""
     },
     "statgen": {
@@ -122,8 +122,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
