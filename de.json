@@ -1,23 +1,23 @@
 {
     "dmOptions": {
-        "cults": "",
-        "traps": "",
-        "adventures": "",
-        "objects": "",
-        "dmOptions": "",
-        "encGen": "",
+        "cults": "Kulte & Dämonische Gaben",
+        "traps": "Fallen & Hindernisse",
+        "adventures": "Abenteuer",
+        "objects": "Objekte",
+        "dmOptions": "SL-Werkzeuge",
+        "encGen": "Begegnungsgenerator",
         "crCalc": "",
-        "lootGen": ""
+        "lootGen": "Beutegenerator"
     },
     "faq": {
-        "faq": "",
+        "answer6": "",
         "answer9": "",
         "answer8": "",
         "answer5": "",
         "answer4": "",
         "answer7": "",
-        "answer6": "",
-        "answer1": "",
+        "faq": "",
+        "answer1": "Zwischen einmal täglich und zweimal wöchentlich. Besuch unseren Discord-Server, um neuste Updates mitzukriegen",
         "answer3": "",
         "answer2": "",
         "question5": "",
@@ -36,38 +36,38 @@
             "join": "",
             "intro1": ""
         },
-        "backgrounds": "",
-        "welcome": "",
+        "demo": "",
         "intro": "",
-        "books": {
-            "1": "",
-            "2": ""
-        },
         "names": "",
         "encGen": "",
         "home": "",
         "crCalc": "",
         "spellspsionics": "",
-        "demo": "",
+        "classes": "",
+        "deities": "",
         "conditions": "",
         "feats": "",
         "rewards": "",
         "lifegen": "",
         "rules": "",
-        "traps": "",
+        "welcome": "",
         "blacklist": "",
         "objects": "",
+        "converter": "",
         "bestiary": "",
         "lootGen": "",
         "cults": "",
-        "converter": "",
+        "traps": "",
         "variantRules": "",
         "items": "",
         "races": "",
-        "deities": "",
+        "backgrounds": "",
         "adventures": "",
         "invocations": "",
-        "classes": "",
+        "books": {
+            "1": "",
+            "2": ""
+        },
         "intro2": "",
         "roll20": {
             "intro": "",
@@ -109,11 +109,11 @@
     },
     "rules": {
         "quickReference": "",
-        "variantRules": "",
         "DMG": "",
-        "MM": "",
+        "variantRules": "",
         "PHB": "",
         "coreBooks": "",
+        "MM": "",
         "rules": ""
     },
     "statgen": {
@@ -122,8 +122,8 @@
     "utils": {
         "content": "",
         "demo": "",
-        "statBlock": "",
         "roll20Help": "",
+        "statBlock": "",
         "utils": ""
     }
 }
